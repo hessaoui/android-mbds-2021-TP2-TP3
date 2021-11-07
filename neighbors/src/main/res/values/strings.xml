@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Voisins</string>
+    <string name="wantToDeleteNeighbor">Voulez-vous supprimer ce voisin ?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="list_neighbours_toolbar_name">Liste des voisins</string>
+    <string name="hint_image">Votre Photo</string>
+    <string name="hint_name">Votre Nom</string>
+    <string name="email_helper_text">Votre eMail</string>
+    <string name="hint_address">Votre Adresse</string>
+    <string name="phone_helper_text">Guide de numero</string>
+    <string name="hint_phone">Votre numero</string>
+    <string name="hint_website">Votre siteweb</string>
+    <string name="hint_about_me">Information</string>
+    <string name="button_save">Boutton de sauvegarde</string>
+    <string name="add_neighbour_toolbar_name">Ajouter à la liste des voisins</string>
+    <string name="name" type="id">Nom</string>
+    <string name="emailAddress" type="id">email</string>
+    <string name="phone" type="id">numero de telephone</string>
+    <string name="website" type="id">url de siteweb</string>
+    <string name="about_me" type="id">plus d informations</string>
+    <string name="toolbar" type="id">tool</string>
+    <string name="addNeighbor" type="id">add</string>
+    <string name="click">Cliquer</string>
+    <string name="pic">photo</string>
+    <string name="plus">plus</string>
+    <string name="delete_neighbor">Voulez-vous supprimer ?</string>
+    <string name="cancel">Annuler</string>
+</resources>

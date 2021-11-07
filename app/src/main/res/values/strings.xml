@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TP2</string>
+    <string name="fragment_container" type="id">fragment_container</string>
+</resources>

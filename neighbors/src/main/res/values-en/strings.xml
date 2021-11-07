@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Neighbors</string>
+    <string name="wantToDeleteNeighbor">Do you really want to remove this neighbor</string>
+    <string name="yes">Yes for sure</string>
+    <string name="no">No</string>
+    <string name="list_neighbours_toolbar_name">List of neighbors</string>
+    <string name="hint_image">Your Picture</string>
+    <string name="hint_name">Your Name</string>
+    <string name="email_helper_text">Email helper</string>
+    <string name="hint_address">Your Address</string>
+    <string name="phone_helper_text">Phone Helper</string>
+    <string name="hint_phone">Your Phone</string>
+    <string name="hint_website">Your Website</string>
+    <string name="hint_about_me">Your Informations</string>
+    <string name="button_save">Save Button</string>
+    <string name="add_neighbour_toolbar_name">Add on names list</string>
+    <string name="name" type="id">Name</string>
+    <string name="emailAddress" type="id">email</string>
+    <string name="phone" type="id">phone number</string>
+    <string name="website" type="id">website url</string>
+    <string name="about_me" type="id">more information</string>
+    <string name="toolbar" type="id">tool</string>
+    <string name="addNeighbor" type="id">add</string>
+    <string name="click">Click</string>
+    <string name="pic">picture</string>
+    <string name="plus">plus</string>
+    <string name="delete_neighbor">Do you want to delete ?</string>
+    <string name="cancel">Cancel</string>
+</resources>
